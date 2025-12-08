@@ -34,11 +34,9 @@ public class TeamProject {
             }
         }
 
-        System.out.print("After sorting : ");
-        for(int i=0 ; i<n ; i++) {
-            System.out.print(arr[i] + " ");
-        }
-        System.out.println();
-        // --- ส่วนที่เพิ่มเข้ามา (End) ---
+        // 3.Output after sorting
+
+        
+        
     }
 }
