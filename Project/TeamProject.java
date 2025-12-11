@@ -35,6 +35,12 @@ public class TeamProject {
         }
 
         // 3.Output after sorting
+        System.out.println("--Result--");
+        System.out.print("After sorting : ");
+        for(int i = 0; i < n; i++) {  //เริ่มวนลูป index
+            System.out.print(arr[i] + " ");
+        }
+        sc.close();
 
         
         
