@@ -41,5 +41,8 @@ public class TeamProject {
             System.out.print(arr[i] + " ");
         }
         sc.close();
+
+        
+        
     }
 }
